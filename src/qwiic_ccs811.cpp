@@ -28,8 +28,8 @@ Distributed as-is; no warranty is given.
 
 #include <stdio.h>
 #include <math.h>
-#include "sparkfun/qwiic_i2c.h"
-#include "sparkfun/qwiic_ccs811.h"
+#include "qwiic_i2c.h"
+#include "qwiic_ccs811.h"
 
 Qwiic_I2C qwiic;
 
